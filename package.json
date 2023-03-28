@@ -1,0 +1,16 @@
+{
+  "name": "pega-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "selenium-webdriver": "^4.8.1"
+  },
+  "description": ""
+}
